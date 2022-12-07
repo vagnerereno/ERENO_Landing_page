@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "ereno-landing-page"
-  }
+  },
+  "targets": {
+    "ereno-landing-page": {
+      "hosting": {
+        "landingpage": [
+          "medbe-landingpage"
+        ],
+        "ereno": [
+          "ereno-landing-page"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

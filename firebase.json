@@ -12,7 +12,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/ereno-landing/index.html"
+        "destination": "/index.html"
       }
     ]
   }
